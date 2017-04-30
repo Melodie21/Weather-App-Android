@@ -1,4 +1,4 @@
-package com.allentbrown.stormy;
+package com.melodie.stormy;
 
 import android.app.Activity;
 import android.content.Context;
