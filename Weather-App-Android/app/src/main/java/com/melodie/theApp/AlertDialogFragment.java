@@ -1,4 +1,4 @@
-package com.allentbrown.stormy;
+package com.melodie.stormy;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -6,9 +6,7 @@ import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
 
-/**
- * Created by abrown54 on 7/8/2015.
- */
+
 public class AlertDialogFragment extends DialogFragment {
 
     @Override
