@@ -1,12 +1,10 @@
-package com.allentbrown.stormy;
+package com.melodie.stormy;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
-/**
- * Created by abrown54 on 7/9/2015.
- */
+
 public class CurrentWeather {
     private String mIcon;
     private long mTime;
